@@ -2,7 +2,7 @@
 ToDo React Web Application
 
 
-The todo application you've described is a simple task management tool with two main parts: task addition and task list management.
+The todo application I've described is a simple task management tool with two main parts: task addition and task list management.
 
 <img width="1439" alt="Screenshot 2023-08-02 at 12 34 31 AM" src="https://github.com/pranavbale/ToDoApplication/assets/78872729/f152e314-43c1-41e6-b7fa-5eb3016e1640">
 
